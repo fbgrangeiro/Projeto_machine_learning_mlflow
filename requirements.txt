@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+mlflow
+matplotlib
+seaborn
+openpyxl
+python-dotenv
+joblib
+pytest
+flask
+flask-cors
+requests
+streamlit>=1.28.0
+plotly>=5.17.0

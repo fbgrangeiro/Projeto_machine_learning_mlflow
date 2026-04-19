@@ -1,0 +1,11 @@
+{
+  "selected_model": "random_forest",
+  "metrics": {
+    "accuracy": 0.8165555555555556,
+    "precision": 0.6528776978417267,
+    "recall": 0.3646408839779005,
+    "f1": 0.4679342571704802,
+    "roc_auc": 0.7593177359180658
+  },
+  "justification": "Melhor balance entre recall e roc_auc para detec\u00e7\u00e3o de inadimpl\u00eancia"
+}

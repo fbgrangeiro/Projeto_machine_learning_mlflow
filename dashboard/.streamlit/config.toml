@@ -1,0 +1,23 @@
+"""
+Arquivo de configuração do Streamlit
+.streamlit/config.toml
+"""
+
+[theme]
+primaryColor = "#2563EB"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F3F4F6"
+textColor = "#1F2937"
+font = "sans serif"
+
+[client]
+toolbarPosition = "top"
+showErrorDetails = true
+
+[logger]
+level = "info"
+
+[server]
+headless = true
+port = 8501
+enableXsrfProtection = true
